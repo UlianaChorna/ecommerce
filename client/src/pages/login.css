@@ -1,0 +1,17 @@
+.login-form{
+  display: flex;
+  flex-direction: column;
+}
+.link{
+  margin: 5px 0px;
+  font-size: 12px;
+  text-decoration: underline;
+  cursor: pointer;
+  color:black;
+}
+.wrapper-login{
+    padding: 20px;
+    width: 20%;
+    background-color: white;
+  
+  }

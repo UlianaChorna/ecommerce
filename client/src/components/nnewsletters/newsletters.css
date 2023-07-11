@@ -1,0 +1,38 @@
+.container-newsletters{
+height: 60hv;
+background-color: #f5fbfd;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+margin: 30px;
+}
+.letter-title{
+font-size: 70px;
+margin-bottom: 20px;
+}
+.desc-letter{
+font-size: 24px;
+font-weight: 300;
+margin-bottom: 20px;
+}
+.input-container{
+width: 50%;
+height: 40px;
+background-color: white;
+display: flex;
+justify-content: center;
+border: 1px solid lightgray;
+margin-bottom: 30px;
+}
+.input-letter{
+border: none;
+flex: 8;
+}
+.btn-letter{
+border: none;
+flex: 1;
+color: white;
+background-color: teal;
+justify-content: center;
+}
